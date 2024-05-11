@@ -21,6 +21,10 @@ Este é um jogo web chamado "Herói e Vilão" onde os jogadores podem se enfrent
 
 ## Como Executar o Projeto
 
+Para executar o game basta clicar no link acima. 
+
+Caso queira baixar o jogo e deixa-lo a sua cara, basta seguir os seguintes passos:
+
 1. Clone este repositório.
 2. Instale as dependências do Node.js executando `npm install`.
 3. Inicie o servidor Node.js executando `npm start`.
