@@ -1,5 +1,6 @@
 # Heroi e Vilão
 ![image](https://github.com/ThiagoResende88/Jogo_Heroi-Vilao/assets/117482959/484e3d65-f880-4f6d-b8e8-083a80c6da76)
+![image](https://github.com/ThiagoResende88/Jogo_Heroi-Vilao/assets/117482959/fa27af14-9198-491d-9df1-dc4c3299c785)
 ![image](https://github.com/ThiagoResende88/Jogo_Heroi-Vilao/assets/117482959/2f4e4ae4-732a-4843-8d2b-ae6311fa2c7c)
 ![image](https://github.com/ThiagoResende88/Jogo_Heroi-Vilao/assets/117482959/2c913684-bc1e-4d81-95f7-f98d1bd10af2)
 
