@@ -1,5 +1,5 @@
 const { createApp } = Vue;
-const API_URL = 'https://trabalho-steel.vercel.app';
+const API_URL = 'https://jogo-heroi-vilao.vercel.app/';
 
 createApp({
     data() {
