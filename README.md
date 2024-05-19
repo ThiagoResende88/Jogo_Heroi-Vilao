@@ -36,8 +36,17 @@ Caso queira baixar o jogo e deixa-lo a sua cara, basta seguir os seguintes passo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
+## Observações
+
+O bando de dados utilizado neste projeto foi do meu amigo Will, pois configurei o meu servidor Azure de forma errada e consumiu todo os meus MB gratuitos lá.
+
 ## Autor
 
 Thiago Dias Resende
 
+![server_1](https://github.com/ThiagoResende88/Jogo_Heroi-Vilao-/assets/117482959/81c49388-3fb9-45ee-b399-09ab4e038287)
+![server_2](https://github.com/ThiagoResende88/Jogo_Heroi-Vilao-/assets/117482959/1b385c05-7659-431e-aa70-e30e70f74ad7)
+![server_3](https://github.com/ThiagoResende88/Jogo_Heroi-Vilao-/assets/117482959/5717a6ab-a734-4646-86dd-d2944929b531)
+![server_4](https://github.com/ThiagoResende88/Jogo_Heroi-Vilao-/assets/117482959/9db16b90-f717-49c9-8c2e-707b34c70183)
+![server_5](https://github.com/ThiagoResende88/Jogo_Heroi-Vilao-/assets/117482959/74d7fdf1-ae86-4716-9902-38e9cdff6cbd)
 ---
